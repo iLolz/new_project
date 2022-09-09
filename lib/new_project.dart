@@ -10,6 +10,7 @@ int calculate() {
   print("Rodrigo A. OLiveira");
   print("Fábio Wood");
   print("Leandro Oliveira");
+  print('Fernando Augusto');
 
   return 6 * 7;
 }
