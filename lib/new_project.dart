@@ -1,4 +1,5 @@
 int calculate() {
-  print("Alencar A. Moreira");
+  print("Alencar Moreira");
+  print("B.");
   return 6 * 7;
 }
