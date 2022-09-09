@@ -1,6 +1,6 @@
 int calculate() {
-  print("Alessandro Bento da Silva");
   print("Alencar A. Moreira");
+  print("Amanda A. Mendanha");
   print("Paula F. Rodrigues");
   print("Vanessa de Oliveira Mello");
   print("Fabio Martinelli");
